@@ -13,8 +13,8 @@ VitalCheck AI is an AI-powered medical assistant that analyzes user symptoms and
 Clone the repository and install required dependencies:
 
 ```sh
-git clone https://github.com/Pritheshwaran/VitalCheck-AI
-cd VitalCheck-AI
+git clone https://github.com/Pritheshwaran/VITAL-CHECK-Ai
+cd VITAL-CHECK-Ai
 pip install -r requirements.txt
 ```
 
