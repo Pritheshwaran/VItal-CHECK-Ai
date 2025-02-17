@@ -7,7 +7,7 @@ from ui_ux import (
     create_info_card, 
     create_tooltip
 )
-genai.configure(api_key="AIzaSyAuZ2JUDG0YNeH6ONp8GySXARVQeGxZHNU")
+genai.configure(api_key="YOUR API KEY")
 
 def get_gemini_response(input_text):
     """Use Google Gemini AI for fast disease prediction."""
